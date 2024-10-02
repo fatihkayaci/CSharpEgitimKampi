@@ -1,2 +1,6 @@
-# CSharpEgitimKampi
-Murat YÜCEDAĞ youtube kanalıyla başladığım bir eğitim repositories'dir. Burada yapılacak kodlar dökümantasyonların hepsi Murat YÜCEDAĞ youtube kanalında paylaşılan derslerin dökümantasyonudur.
+# CSharp Eğitim Kampı
+
+Bu repository, Murat YÜCEDAĞ’ın YouTube kanalıyla başlattığı C# eğitimine ait içerikleri içermektedir. Burada yer alan tüm kod örnekleri ve dökümantasyon, ilgili derslerin detaylarına dayanmaktadır. C# diline ilgi duyanlar veya yeni bir yazılım dili öğrenmek isteyen herkes için bu eğitim içeriği oldukça uygundur.
+
+İlk dersi izlemek için [buraya tıklayın](https://www.youtube.com/watch?v=oev5wH-_XCI).
+
